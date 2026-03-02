@@ -28,7 +28,7 @@ Perfect for PHP developers, frontend engineers, and anyone who needs to rapidly 
 
 Download or clone the script to your machine. Or just copy the following command in your terminal:
 ```
-curl -O [https://raw.githubusercontent.com/startmd/virtual-host-maker/main/make_vhost.sh](https://raw.githubusercontent.com/startmd/virtual-host-maker/main/make_vhost.sh)
+curl -O https://raw.githubusercontent.com/startmd/virtual-host-maker/main/make_vhost.sh
 ```
 
 Make the script executable:
